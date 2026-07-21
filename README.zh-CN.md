@@ -2,6 +2,8 @@
 
 这是一个为 **Christ Family Church** 制作的移动端网页展示项目，使用 **React 18**、**Vite**、**Tailwind CSS** 和 **Framer Motion** 实现。
 
+**在线预览：** [https://sun1304784021.github.io/Church_Community/](https://sun1304784021.github.io/Church_Community/)
+
 项目包含 3 个主要移动端页面：
 
 - 见证页

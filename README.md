@@ -2,6 +2,8 @@
 
 A polished mobile web app showcase for **Christ Family Church**, built with **React 18**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
+**Live demo:** [https://sun1304784021.github.io/Church_Community/](https://sun1304784021.github.io/Church_Community/)
+
 This project presents three mobile-style church screens:
 
 - Testimonial
